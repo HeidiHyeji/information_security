@@ -39,4 +39,9 @@
 - 
 </details>
 
-### 
+# 2일차(2024/12/17)
+<details>
+  ### 클라우드 환경의 정보보안
+  - VPC 주요 보안 정책: NACL(Network Access Control List)
+  - ANFW vs SG vs NACL vs WAF vs Shield
+</details>
