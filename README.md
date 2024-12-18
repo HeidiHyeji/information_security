@@ -54,7 +54,17 @@
   - 침입방지 시스템(IPS)
     :Firewall,IDS, Virus Worm 및 유해 사이트 차단(Contents Filtering) 시스템등이 유기적으로 통합
 되어공격의탐지및방어를동시에수행하는시스템
-  ### 
+  ### 네트워크 DLP
+  - 민감한 데이터의 식별 및 보호가 네트워크를 통해 이동하는 데이터에 대해 수행
+  ### 보안 제품 기본 개념과 기능
+  - 웹 애플리케이션
+    - 개발하는 단계에서 보안 위협 파악 및 이를 통제하여 안전한 웹페이지 개발
+  ### VPN
+  ### 위협 관리 시스템 TMS 이해
+  ### AWS Transit Gateway 사용
+  - 한 Account 에서 VPC간 통신 기술: VPC peering -> Transit Gateway
+  ### TGW Migration
+  ##### VPC Peering vs Transit Gateway
   
 </details>
 
