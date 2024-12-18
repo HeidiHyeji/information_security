@@ -31,8 +31,6 @@
   - 조직의 주요 정보자산을 보호하기 위해 정보보호관리 절차와 과정을 체계적으로 수립하여 지속적으로 관리/운영하기 위한 종합적인 체계
 
 ### API 보안 가이드
-##### 
-
 ### 실습
 - 개인정보처리 시스템 흐름도 작성
 ### 요약자료
@@ -46,3 +44,17 @@
   - VPC 주요 보안 정책: NACL(Network Access Control List)
   - ANFW vs SG vs NACL vs WAF vs Shield
 </details>
+
+# 3일차(2024/12/18)
+<details>
+
+  ### 사이버침해사례분석
+  - APT 공격
+  ### 보안제품기본개념과기능
+  - 침입방지 시스템(IPS)
+    :Firewall,IDS, Virus Worm 및 유해 사이트 차단(Contents Filtering) 시스템등이 유기적으로 통합
+되어공격의탐지및방어를동시에수행하는시스템
+  ### 
+  
+</details>
+
